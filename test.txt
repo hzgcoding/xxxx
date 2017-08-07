@@ -5,3 +5,6 @@ zhigen.hu
 git study
 
 checkout etc.
+
+
+另外一个人更改了怎么办
