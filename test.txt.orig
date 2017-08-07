@@ -1,4 +1,4 @@
-this is my life#
+﻿this is my life#
 author is me
 zhigen.hu
 
@@ -7,18 +7,20 @@ git study
 checkout etc.
 
 
-<<<<<<< HEAD
-另外一个人更改了怎么�
-
-
-45565454
-
-
-45544
-5454
-=======
 å¦å¤–ä¸€ä¸ªäººæ›´æ”¹äº†æ€Žä¹ˆåŠ
 
 
 endong
->>>>>>> 801cc637a6066cdbddc69478f77e0207f4e89ca3
+
+
+45544
+5454
+
+<<<<<<< Updated upstream
+dfds
+=======
+541212
+
+
+555454
+>>>>>>> Stashed changes
