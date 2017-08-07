@@ -3,3 +3,5 @@ author is me
 zhigen.hu
 
 git study
+
+checkout etc.
